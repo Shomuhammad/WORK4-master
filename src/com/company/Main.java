@@ -36,7 +36,7 @@ public class Main {
         C.add(B.get(2));
         C.add(A.get(3));
         C.add(B.get(1));
-        C.add(A.get(4))
+        C.add(A.get(4));
         C.add(B.get(0));
         System.out.println( "Ваш список C = " + C);
         System.out.println("--------------");
